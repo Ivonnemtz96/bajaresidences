@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <div class="footer-1-middle">
+    <div hidden class="footer-1-middle">
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">
@@ -65,8 +65,8 @@
     <div class="footer-bottom">
         <div class="auto-container">
             <div class="footer-bottom-row">
-                <div class="footer-bottom-text">Copyright 2022 by <a href="javascript:void(0);">royalking</a> theme All
-                    Right Reserved.</div>
+                <div class="footer-bottom-text">Copyright 2022 <strong>Baja Residence</strong>. Diseñado por 
+                <a target="_blank" style="color: #c59765;" href="https://bananagroup.mx"><strong>Banana Group Marketing.</strong></a> </div>
             </div>
         </div>
     </div>
@@ -74,15 +74,3 @@
 
 </div>
 
-<!--Scroll to top-->
-<div class="scroll-to-top">
-    <div>
-        <div class="scroll-top-inner">
-            <div class="scroll-bar">
-                <div class="bar-inner"></div>
-            </div>
-            <div class="scroll-bar-text">Go To Top</div>
-        </div>
-    </div>
-</div>
-<!-- Scroll to top end -->
