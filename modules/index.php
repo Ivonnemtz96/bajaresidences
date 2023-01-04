@@ -6,7 +6,7 @@
             <!-- Slide Item -->
             <div class="swiper-slide">
                 <div class="banner-feature-image d-none d-lg-block"
-                    style="background-image: url(assets/images/main-slider/banner-3.jpg);"></div>
+                    style="background-image: url(assets/images/main-slider/banner-3.jpg?=1);"></div>
                 <div class="content-outer">
                     <div class="content-box">
                         <div class="inner">
