@@ -26,7 +26,7 @@
             <!-- Slide Item -->
             <div class="swiper-slide">
                 <div class="banner-feature-image d-none d-lg-block"
-                    style="background-image: url(assets/images/main-slider/banner-3.jpg);"></div>
+                    style="background-image: url(assets/images/main-slider/banner-3.jpg?=1);"></div>
                 <div class="content-outer">
                     <div class="content-box">
                         <div class="inner">
@@ -116,32 +116,32 @@
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="feature-1-block text-center wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-                    <div class="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-1.jpg"
+                    <div class="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-1.jpg?=1"
                             alt=""></div>
-                    <h4 class="feature-1-title">Kick off Summer <br> in NYC</h4>
+                    <h4 class="feature-1-title">Acabados de piedra <br> en Cabo San Lucas</h4>
                     <p class="feature-1-text">Amet minim mollit no duis sit enim <br> aliqua dolor do amet officia.</p>
                     <div class="feature-1-link"><a class="feature-1-link-btn hvr-zoom-1 hvr-zoom-1-primary"
-                            href="service-details.html"><i class="icon-5"></i></a></div>
+                            href="/contacto"><i class="icon-5"></i></a></div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="feature-1-block text-center wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-                    <div class="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-2.jpg"
+                    <div class="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-2.jpg?=1"
                             alt=""></div>
-                    <h4 class="feature-1-title">Free Breakfast <br> Packages</h4>
+                    <h4 class="feature-1-title">A pocos metros <br> de la playa</h4>
                     <p class="feature-1-text">Amet minim mollit no duis sit enim <br> aliqua dolor do amet officia.</p>
                     <div class="feature-1-link"><a class="feature-1-link-btn hvr-zoom-1 hvr-zoom-1-primary"
-                            href="service-details.html"><i class="icon-5"></i></a></div>
+                            href="/contacto"><i class="icon-5"></i></a></div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="feature-1-block text-center wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-                    <div class="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-3.jpg"
+                    <div class="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-3.jpg?=1"
                             alt=""></div>
-                    <h4 class="feature-1-title">The Signature <br> Collection</h4>
+                    <h4 class="feature-1-title">Establecimientos a <br> los alrededores</h4>
                     <p class="feature-1-text">Amet minim mollit no duis sit enim <br> aliqua dolor do amet officia.</p>
                     <div class="feature-1-link"><a class="feature-1-link-btn hvr-zoom-1 hvr-zoom-1-primary"
-                            href="service-details.html"><i class="icon-5"></i></a></div>
+                            href="/contacto"><i class="icon-5"></i></a></div>
                 </div>
             </div>
         </div>
@@ -155,7 +155,7 @@
             <div class="col-lg-6">
                 <div class="about-1-image-wrap mb_30 p_relative">
                     <div class="about-1-shape-1" data-parallax='{"y": -50}'></div>
-                    <div class="about-1-image-1 hvr-img-zoom-1"><img src="assets/images/resource/about.jpg" alt="">
+                    <div class="about-1-image-1 hvr-img-zoom-1"><img src="assets/images/resource/about.jpg?=1" alt="">
                     </div>
                 </div>
             </div>
@@ -188,7 +188,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="room-1-block wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">
                     <div class="room-1-image hvr-img-zoom-1">
-                        <img src="assets/images/resource/room-1.jpg" alt="">
+                        <img src="assets/images/resource/room-1.jpg?=3" alt="">
                     </div>
                     <div class="room-1-content">
                         <p class="room-1-meta-info"> <span class="theme-color">160 m2</span></p>
@@ -210,7 +210,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="room-1-block wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.2s">
                     <div class="room-1-image hvr-img-zoom-1">
-                        <img src="assets/images/resource/room-2.jpg" alt="">
+                        <img src="assets/images/resource/room-2.jpg?=3" alt="">
                     </div>
                     <div class="room-1-content">
                         <p class="room-1-meta-info"> <span class="theme-color">120 m2</span></p>
@@ -232,7 +232,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="room-1-block wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                     <div class="room-1-image hvr-img-zoom-1">
-                        <img src="assets/images/resource/room-3.jpg" alt="">
+                        <img src="assets/images/resource/room-3.jpg?=3" alt="">
                     </div>
                     <div class="room-1-content">
                     <p class="room-1-meta-info"> <span class="theme-color">180 m2</span></p>
