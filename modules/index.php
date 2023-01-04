@@ -150,7 +150,7 @@
 
 <!-- About -->
 <section class="section-padding gray-bg pt-0">
-    <div class="auto-container">
+    <div class="auto-container" id="nosotros">
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-1-image-wrap mb_30 p_relative">

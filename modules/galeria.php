@@ -1,13 +1,13 @@
 <div class="page-title" style="background-image: url(/assets/images/background/page-title-9.jpg);">
     <div class="auto-container">
-        <h1>Gallery</h1>
+        <h1>Galería</h1>
     </div>
 </div>
 <div class="bredcrumb-wrap">
     <div class="auto-container">
         <ul class="bredcrumb-list">
-            <li><a href="index.html">Home</a></li>
-            <li>Gallery</li>
+            <li><a href="/">Inicio</a></li>
+            <li>Galería</li>
         </ul>
     </div>
 </div>
@@ -16,14 +16,14 @@
 <section class="section-padding">
     <div class="auto-container">
 
-        <div class="filters">
+        <!-- <div class="filters">
             <ul class="filter-tabs filter-btns d-flex justify-content-center">
                 <li class="filter active" data-role="button" data-filter=".all">All Works</li>
                 <li class="filter" data-role="button" data-filter=".cat-1">Nursing</li>
                 <li class="filter" data-role="button" data-filter=".cat-2">Medical </li>
                 <li class="filter" data-role="button" data-filter=".cat-3">Senior</li>
             </ul>
-        </div>
+        </div> -->
 
         <!--Sortable Galery-->
         <div class="sortable-masonry">

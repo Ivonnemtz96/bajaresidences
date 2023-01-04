@@ -3,7 +3,7 @@
         <div class="auto-container">
             <div class="inner-container d-flex align-items-center justify-content-between">
                 <div class="logo-box">
-                    <div class="logo" style="width: 240px;"><a href="index.html"><img src="assets/images/logo.png"
+                    <div class="logo" style="width: 240px;"><a href="/"><img src="assets/images/logo.png"
                                 alt=""></a></div>
                 </div>
                 <div class="middle-column">
@@ -102,7 +102,7 @@
         <div class="close-btn"><span class="fal fa-times"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-light.png" alt="" title=""></a>
+            <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-light.png?=1" alt="" title=""></a>
             </div>
             <div class="menu-outer">
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
