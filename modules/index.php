@@ -44,7 +44,7 @@
             </div>
         </div>
     </div>
-    <div class="banner-slider-nav">
+    <div hidden class="banner-slider-nav">
         <div class="banner-slider-control banner-slider-button-prev hvr-zoom-1 hvr-zoom-1-primary"><span><i
                     class="icon-2"></i></span></div>
         <div class="banner-slider-control banner-slider-button-next hvr-zoom-1 hvr-zoom-1-primary"><span><i
@@ -162,7 +162,7 @@
             <div class="col-lg-6 ps-lg-5">
                 <div class="section_heading mb_20">
                     <span class="section_heading_title_small">¿Quiénes somos?</span>
-                    <h2 class="section_heading_title_big">En <br>Baja Residence <br> Hacemos tu sueño realidad.</h2>
+                    <h2 class="section_heading_title_big">En Baja Residence <br> Hacemos tu sueño realidad.</h2>
                 </div>
                 <p class="aboout-1-desc mb_30">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing
                     integer

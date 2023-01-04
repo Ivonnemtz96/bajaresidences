@@ -3,7 +3,7 @@
         <div class="auto-container">
             <div class="inner-container d-flex align-items-center justify-content-between">
                 <div class="logo-box">
-                    <div class="logo" style="width: 240px;"><a href="/"><img src="/assets/images/logo.png"
+                    <div class="logo" style="width: 150px;"><a href="/"><img src="/assets/images/logo.png"
                                 alt=""></a></div>
                 </div>
                 <div class="middle-column">
@@ -76,7 +76,7 @@
                 <div class="inner-container d-flex align-items-center justify-content-between">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo" style="width: 240px;"><a href="/"><img src="/assets/images/logo.png" alt=""></a></div>
+                        <div class="logo" style="width: 150px;"><a href="/"><img src="/assets/images/logo.png" alt=""></a></div>
                     </div>
                     <div class="middle-column">
                         <!--Nav Box-->
