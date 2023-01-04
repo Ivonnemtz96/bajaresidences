@@ -1,4 +1,4 @@
-<div class="page-title" style="background-image: url(assets/images/background/page-title-6.jpg);">
+<div class="page-title" style="background-image: url(/assets/images/background/page-title-6.jpg);">
     <div class="auto-container">
         <h1>Contact Us</h1>
     </div>
