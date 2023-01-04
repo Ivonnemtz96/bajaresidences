@@ -2,12 +2,12 @@
     <meta charset="utf-8">
     <title>Royalking Hotel & Resort HTML Template</title>
     <!-- Stylesheets -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/style.css" rel="stylesheet">
     <!-- Responsive File -->
-    <link href="assets/css/responsive.css" rel="stylesheet">
+    <link href="/assets/css/responsive.css" rel="stylesheet">
     <!-- Color File -->
-    <link href="assets/css/color.css" rel="stylesheet">
+    <link href="/assets/css/color.css" rel="stylesheet">
 
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -15,8 +15,8 @@
         href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600;700&amp;family=DM+Sans:wght@400;500;700&amp;display=swap"
         rel="stylesheet">
 
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

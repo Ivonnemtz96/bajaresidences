@@ -12,23 +12,18 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation">
-                                    <li class="dropdown"><a href="index.html">Home</a>
+                                    <!-- <li class="dropdown"><a href="index.html">Inicio</a>
                                         <ul>
                                             <li><a href="index.html">Home Page 1</a></li>
                                             <li><a href="index-2.html">Home Page 2</a></li>
                                             <li><a href="index-3.html">Home Page 3</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="about.html">About</a>
-                                        <ul>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="testimonials.html">Testimonials</a></li>
-                                            <li><a href="faq.html">Faq</a></li>
-                                            <li><a href="error.html">404 Error Page</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="blog-grid.html">Pages</a>
+                                    </li> -->
+                                    <li><a href="/">Inicio</a></li>
+                                    <li><a href="/#nosotros">Nosotros</a></li>
+                                    <li><a href="/galeria">Galería</a></li>
+                                    <li><a href="/propiedades">Propiedades</a></li>
+                                    <!-- <li class="dropdown"><a href="blog-grid.html">Pages</a>
                                         <ul>
                                             <li><a href="menu.html">Menu</a></li>
                                             <li><a href="gallery.html">Gallery</a></li>
@@ -61,17 +56,16 @@
                                             <li><a href="blog-standard.html">Blog Standard</a></li>
                                             <li><a href="blog-details.html">Blog Details</a></li>
                                         </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    </li> -->
+                                    <!-- <li><a href="/contacto">Contacto</a></li> -->
                                 </ul>
                             </div>
                         </nav>
                     </div>
                 </div>
                 <div class="right-column d-flex align-items-center">
-                    <button type="button" class="theme-btn search-toggler"><i class="icon-1"></i></button>
-                    <div class="header-link-btn"><a href="javascript:void(0);" class="btn-1 btn-small btn-alt">Book Your
-                            Stay <span></span></a></div>
+                    <!-- <button type="button" class="theme-btn search-toggler"><i class="icon-1"></i></button> -->
+                    <div class="header-link-btn"><a href="/contacto" class="btn-1 btn-small btn-alt">Contacto<span></span></a></div>
                 </div>
             </div>
         </div>
@@ -82,8 +76,7 @@
                 <div class="inner-container d-flex align-items-center justify-content-between">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo" style="width: 240px;"><a href="index.html"><img src="assets/images/logo.png"
-                                    alt=""></a></div>
+                        <div class="logo" style="width: 240px;"><a href="/"><img src="assets/images/logo.png" alt=""></a></div>
                     </div>
                     <div class="middle-column">
                         <!--Nav Box-->
@@ -97,8 +90,7 @@
                         </div>
                     </div>
                     <div class="right-column d-flex align-items-center">
-                        <div class="header-link-btn"><a href="javascript:void(0);" class="btn-1 btn-small btn-alt">Book
-                                Your Stay <span></span></a></div>
+                        <div class="header-link-btn"><a href="/contacto" class="btn-1 btn-small btn-alt">Contacto<span></span></a></div>
                     </div>
                 </div>
             </div>
