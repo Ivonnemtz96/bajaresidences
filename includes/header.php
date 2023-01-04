@@ -3,12 +3,12 @@
         <div class="auto-container">
             <div class="inner-container d-flex align-items-center justify-content-between">
                 <div class="logo-box">
-                    <div class="logo" style="width: 240px;"><a href="/"><img src="assets/images/logo.png"
+                    <div class="logo" style="width: 240px;"><a href="/"><img src="/assets/images/logo.png"
                                 alt=""></a></div>
                 </div>
                 <div class="middle-column">
                     <div class="nav-outer">
-                        <div class="mobile-nav-toggler"><img src="assets/images/icons/icon-bar-2.png" alt=""></div>
+                        <div class="mobile-nav-toggler"><img src="/assets/images/icons/icon-bar-2.png" alt=""></div>
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation">
@@ -76,13 +76,13 @@
                 <div class="inner-container d-flex align-items-center justify-content-between">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo" style="width: 240px;"><a href="/"><img src="assets/images/logo.png" alt=""></a></div>
+                        <div class="logo" style="width: 240px;"><a href="/"><img src="/assets/images/logo.png" alt=""></a></div>
                     </div>
                     <div class="middle-column">
                         <!--Nav Box-->
                         <div class="nav-outer">
                             <!--Mobile Navigation Toggler-->
-                            <div class="mobile-nav-toggler"><img src="assets/images/icons/icon-bar-2.png" alt=""></div>
+                            <div class="mobile-nav-toggler"><img src="/assets/images/icons/icon-bar-2.png" alt=""></div>
 
                             <!-- Main Menu -->
                             <nav class="main-menu navbar-expand-md navbar-light">
@@ -102,7 +102,7 @@
         <div class="close-btn"><span class="fal fa-times"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-light.png?=1" alt="" title=""></a>
+            <div class="nav-logo"><a href="index.html"><img src="/assets/images/logo-light.png?=1" alt="" title=""></a>
             </div>
             <div class="menu-outer">
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
