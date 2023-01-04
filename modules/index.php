@@ -390,6 +390,80 @@
     </div>
 </section>
 
+
+<!-- Contact Form -->
+<section hidden class="section-padding gray-bg">
+    <div class="auto-container">
+        <div class="row">
+            <div class="col-lg-6 order-2">
+                <div class="p_relative">
+                    <div class="p_absolute l_0 b__75"><img src="assets/images/shape/pattern-1.png" alt=""></div>
+                    <div class="form-alt">
+                        <form method="post" action="https://html.tonatheme.com/2022/royalking/sendemail.php"
+                            id="contact-form">
+                            <div class="row clearfix">
+                                <div class="form-group col-md-12">
+                                    <input type="text" name="form_name" value="" placeholder="Your Name" required>
+                                </div>
+
+                                <div class="form-group col-md-12">
+                                    <input type="text" name="email" value="" placeholder="Your Email" required>
+                                </div>
+
+                                <div class="form-group col-md-12">
+                                    <input type="text" name="form_subject" value="" placeholder="Subject" required>
+                                </div>
+
+                                <div class="form-group col-md-12">
+                                    <textarea name="form_message" placeholder="Massage"></textarea>
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <p><input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> I agree to the
+                                        terms & conditions</p>
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
+                                        value="">
+                                    <button class="btn-1" type="submit" data-loading-text="Please wait...">Submit Now <i
+                                            class="flaticon-right-arrow-1"></i><span></span></button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="section_heading mb_30">
+                    <span class="section_heading_title_small">Contact Us</span>
+                    <h2 class="section_heading_title_big">If You Wish To <br>
+                        Learn More Ask Before <br>
+                        Booking.</h2>
+                </div>
+                <p>Adipiscing integer ultrices suspendisse varius etiam est. Est, felis, tempus <br>
+                    nec vitae orci sodales Metus, velit nec at diam in sed. Massa dui ipsum <br>
+                    ornare sagittis dolor sagittis amet odio est.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- CTA -->
+<section class="cta-1-section">
+    <div class="cta-1-bg" data-parallax='{"y": 30}'
+        style="background-image: url(assets/images/background/parallax-bg.jpg);"></div>
+    <div class="auto-container">
+        <div class="section_heading text-center mb_40">
+            <span class="section_heading_title_small">No esperes más</span>
+            <h2 class="section_heading_title_big alt">Contáctanos y encuentra <br> Tu lugar ideal</h2>
+        </div>
+        <div class="text-center">
+            <div class="cta-1-link-bt"><a href="/contacto" class="btn-1">Contactar<span></span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Testimonials -->
 <section class="section-padding">
     <div class="auto-container">
@@ -479,22 +553,6 @@
     </div>
 </section>
 
-<!-- CTA -->
-<section class="cta-1-section">
-    <div class="cta-1-bg" data-parallax='{"y": 30}'
-        style="background-image: url(assets/images/background/parallax-bg.jpg);"></div>
-    <div class="auto-container">
-        <div class="section_heading text-center mb_40">
-            <span class="section_heading_title_small">No esperes más</span>
-            <h2 class="section_heading_title_big alt">Contáctanos y encuentra <br> Tu lugar ideal</h2>
-        </div>
-        <div class="text-center">
-            <div class="cta-1-link-bt"><a href="/contacto" class="btn-1">Contactar<span></span></a>
-            </div>
-        </div>
-    </div>
-</section>
-
 <!-- Blog -->
 <section hidden class="section-padding">
     <div class="auto-container">
@@ -567,58 +625,3 @@
     </div>
 </section>
 
-<!-- Contact Form -->
-<section class="section-padding gray-bg">
-    <div class="auto-container">
-        <div class="row">
-            <div class="col-lg-6 order-2">
-                <div class="p_relative">
-                    <div class="p_absolute l_0 b__75"><img src="assets/images/shape/pattern-1.png" alt=""></div>
-                    <div class="form-alt">
-                        <form method="post" action="https://html.tonatheme.com/2022/royalking/sendemail.php"
-                            id="contact-form">
-                            <div class="row clearfix">
-                                <div class="form-group col-md-12">
-                                    <input type="text" name="form_name" value="" placeholder="Your Name" required>
-                                </div>
-
-                                <div class="form-group col-md-12">
-                                    <input type="text" name="email" value="" placeholder="Your Email" required>
-                                </div>
-
-                                <div class="form-group col-md-12">
-                                    <input type="text" name="form_subject" value="" placeholder="Subject" required>
-                                </div>
-
-                                <div class="form-group col-md-12">
-                                    <textarea name="form_message" placeholder="Massage"></textarea>
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <p><input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> I agree to the
-                                        terms & conditions</p>
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
-                                        value="">
-                                    <button class="btn-1" type="submit" data-loading-text="Please wait...">Submit Now <i
-                                            class="flaticon-right-arrow-1"></i><span></span></button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="section_heading mb_30">
-                    <span class="section_heading_title_small">Contact Us</span>
-                    <h2 class="section_heading_title_big">If You Wish To <br>
-                        Learn More Ask Before <br>
-                        Booking.</h2>
-                </div>
-                <p>Adipiscing integer ultrices suspendisse varius etiam est. Est, felis, tempus <br>
-                    nec vitae orci sodales Metus, velit nec at diam in sed. Massa dui ipsum <br>
-                    ornare sagittis dolor sagittis amet odio est.</p>
-            </div>
-        </div>
-    </div>
-</section>
